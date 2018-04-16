@@ -2,10 +2,7 @@
 Programming Fundamentals with C#  |  Exercises
 
 ### AllGeneralOperations.sln
-Classes  |  Dictionaries  |  Lists  |  Arrays  |  Regex  |  And More  |  Exercises
-
-### Classes.sln
-Classes  |  Exercises
+Dictionaries  |  Lists  |  Arrays  |  Regex  |  And More  |  Exercises
 
 ### Dictionaries.sln
 Dictionaries  |  Exercises
@@ -21,4 +18,3 @@ Regexes  |  Exercises
 
 ### Strings.sln
 Strings  |  Exercises
-
