@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Basics.cs" Link="Basics.cs" />
+  </ItemGroup>
+
+</Project>

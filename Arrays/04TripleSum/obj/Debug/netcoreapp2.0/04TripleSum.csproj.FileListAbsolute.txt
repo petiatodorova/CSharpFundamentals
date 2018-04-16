@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\bin\Debug\netcoreapp2.0\04TripleSum.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\bin\Debug\netcoreapp2.0\04TripleSum.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\bin\Debug\netcoreapp2.0\04TripleSum.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\bin\Debug\netcoreapp2.0\04TripleSum.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\bin\Debug\netcoreapp2.0\04TripleSum.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.pdb

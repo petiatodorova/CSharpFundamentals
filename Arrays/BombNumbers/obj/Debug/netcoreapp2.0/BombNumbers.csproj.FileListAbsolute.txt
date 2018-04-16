@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\bin\Debug\netcoreapp2.0\BombNumbers.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\bin\Debug\netcoreapp2.0\BombNumbers.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\bin\Debug\netcoreapp2.0\BombNumbers.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\bin\Debug\netcoreapp2.0\BombNumbers.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\bin\Debug\netcoreapp2.0\BombNumbers.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.pdb

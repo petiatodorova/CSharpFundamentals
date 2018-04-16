@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\bin\Debug\netcoreapp2.0\StringSplitOptionsExample.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\bin\Debug\netcoreapp2.0\StringSplitOptionsExample.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\bin\Debug\netcoreapp2.0\StringSplitOptionsExample.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\bin\Debug\netcoreapp2.0\StringSplitOptionsExample.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\bin\Debug\netcoreapp2.0\StringSplitOptionsExample.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\obj\Debug\netcoreapp2.0\StringSplitOptionsExample.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\obj\Debug\netcoreapp2.0\StringSplitOptionsExample.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\obj\Debug\netcoreapp2.0\StringSplitOptionsExample.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\obj\Debug\netcoreapp2.0\StringSplitOptionsExample.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\obj\Debug\netcoreapp2.0\StringSplitOptionsExample.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\StringSplitOptionsExample\obj\Debug\netcoreapp2.0\StringSplitOptionsExample.pdb

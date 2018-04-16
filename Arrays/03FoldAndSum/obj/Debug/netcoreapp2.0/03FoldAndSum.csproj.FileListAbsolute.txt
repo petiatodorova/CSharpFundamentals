@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\bin\Debug\netcoreapp2.0\03FoldAndSum.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\bin\Debug\netcoreapp2.0\03FoldAndSum.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\bin\Debug\netcoreapp2.0\03FoldAndSum.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\bin\Debug\netcoreapp2.0\03FoldAndSum.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\bin\Debug\netcoreapp2.0\03FoldAndSum.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.pdb

@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\bin\Debug\netcoreapp2.0\MagicExchangeableWords.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\bin\Debug\netcoreapp2.0\MagicExchangeableWords.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\bin\Debug\netcoreapp2.0\MagicExchangeableWords.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\bin\Debug\netcoreapp2.0\MagicExchangeableWords.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\bin\Debug\netcoreapp2.0\MagicExchangeableWords.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.pdb

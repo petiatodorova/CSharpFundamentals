@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedFromColegata\bin\Debug\netcoreapp2.0\UnleashedFromColegata.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedFromColegata\bin\Debug\netcoreapp2.0\UnleashedFromColegata.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedFromColegata\bin\Debug\netcoreapp2.0\UnleashedFromColegata.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedFromColegata\bin\Debug\netcoreapp2.0\UnleashedFromColegata.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedFromColegata\bin\Debug\netcoreapp2.0\UnleashedFromColegata.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedFromColegata\obj\Debug\netcoreapp2.0\UnleashedFromColegata.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedFromColegata\obj\Debug\netcoreapp2.0\UnleashedFromColegata.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedFromColegata\obj\Debug\netcoreapp2.0\UnleashedFromColegata.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedFromColegata\obj\Debug\netcoreapp2.0\UnleashedFromColegata.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedFromColegata\obj\Debug\netcoreapp2.0\UnleashedFromColegata.pdb

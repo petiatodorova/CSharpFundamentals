@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\obj\Debug\netcoreapp2.0\Probi2.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\obj\Debug\netcoreapp2.0\Probi2.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\obj\Debug\netcoreapp2.0\Probi2.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\bin\Debug\netcoreapp2.0\Probi2.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\bin\Debug\netcoreapp2.0\Probi2.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\bin\Debug\netcoreapp2.0\Probi2.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\bin\Debug\netcoreapp2.0\Probi2.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\bin\Debug\netcoreapp2.0\Probi2.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\obj\Debug\netcoreapp2.0\Probi2.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\obj\Debug\netcoreapp2.0\Probi2.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Probi2\obj\Debug\netcoreapp2.0\Probi2.pdb

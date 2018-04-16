@@ -1,0 +1,3 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\CopyOfCurrentTask\obj\Debug\netcoreapp2.0\CopyOfCurrentTask.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\CopyOfCurrentTask\obj\Debug\netcoreapp2.0\CopyOfCurrentTask.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\CopyOfCurrentTask\obj\Debug\netcoreapp2.0\CopyOfCurrentTask.AssemblyInfo.cs

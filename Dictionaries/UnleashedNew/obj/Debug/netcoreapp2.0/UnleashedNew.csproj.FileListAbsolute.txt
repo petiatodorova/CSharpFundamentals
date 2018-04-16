@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\obj\Debug\netcoreapp2.0\UnleashedNew.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\obj\Debug\netcoreapp2.0\UnleashedNew.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\obj\Debug\netcoreapp2.0\UnleashedNew.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\obj\Debug\netcoreapp2.0\UnleashedNew.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\bin\Debug\netcoreapp2.0\UnleashedNew.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\bin\Debug\netcoreapp2.0\UnleashedNew.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\bin\Debug\netcoreapp2.0\UnleashedNew.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\bin\Debug\netcoreapp2.0\UnleashedNew.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\bin\Debug\netcoreapp2.0\UnleashedNew.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\obj\Debug\netcoreapp2.0\UnleashedNew.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\UnleashedNew\obj\Debug\netcoreapp2.0\UnleashedNew.pdb

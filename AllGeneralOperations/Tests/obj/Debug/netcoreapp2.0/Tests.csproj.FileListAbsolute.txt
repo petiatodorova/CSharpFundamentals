@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\bin\Debug\netcoreapp2.0\Tests.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\bin\Debug\netcoreapp2.0\Tests.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\bin\Debug\netcoreapp2.0\Tests.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\bin\Debug\netcoreapp2.0\Tests.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\bin\Debug\netcoreapp2.0\Tests.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\obj\Debug\netcoreapp2.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\obj\Debug\netcoreapp2.0\Tests.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\obj\Debug\netcoreapp2.0\Tests.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\obj\Debug\netcoreapp2.0\Tests.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\obj\Debug\netcoreapp2.0\Tests.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Tests\obj\Debug\netcoreapp2.0\Tests.csprojResolveAssemblyReference.cache

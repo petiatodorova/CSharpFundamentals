@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Lists\01MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01MaxSequenceOfEqualElements.pdb

@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.pdb

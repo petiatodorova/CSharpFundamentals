@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\07MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\07MaxSequenceOfIncreasingElements.pdb

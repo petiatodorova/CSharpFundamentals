@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\bin\Debug\netcoreapp2.0\e7MultiplyBigNumbers.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\bin\Debug\netcoreapp2.0\e7MultiplyBigNumbers.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\bin\Debug\netcoreapp2.0\e7MultiplyBigNumbers.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\bin\Debug\netcoreapp2.0\e7MultiplyBigNumbers.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\bin\Debug\netcoreapp2.0\e7MultiplyBigNumbers.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\obj\Debug\netcoreapp2.0\e7MultiplyBigNumbers.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\obj\Debug\netcoreapp2.0\e7MultiplyBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\obj\Debug\netcoreapp2.0\e7MultiplyBigNumbers.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\obj\Debug\netcoreapp2.0\e7MultiplyBigNumbers.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\obj\Debug\netcoreapp2.0\e7MultiplyBigNumbers.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e7MultiplyBigNumbers\obj\Debug\netcoreapp2.0\e7MultiplyBigNumbers.pdb

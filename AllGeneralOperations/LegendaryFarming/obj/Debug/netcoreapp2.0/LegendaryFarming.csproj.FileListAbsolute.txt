@@ -1,0 +1,4 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.AssemblyInfo.cs

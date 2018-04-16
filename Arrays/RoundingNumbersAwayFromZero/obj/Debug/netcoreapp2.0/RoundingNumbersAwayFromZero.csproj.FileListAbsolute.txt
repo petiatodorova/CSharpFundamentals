@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.pdb

@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\bin\Debug\netcoreapp2.0\Strings.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\bin\Debug\netcoreapp2.0\Strings.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\bin\Debug\netcoreapp2.0\Strings.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\bin\Debug\netcoreapp2.0\Strings.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\bin\Debug\netcoreapp2.0\Strings.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\obj\Debug\netcoreapp2.0\Strings.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\obj\Debug\netcoreapp2.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\obj\Debug\netcoreapp2.0\Strings.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\obj\Debug\netcoreapp2.0\Strings.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\obj\Debug\netcoreapp2.0\Strings.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Strings\obj\Debug\netcoreapp2.0\Strings.pdb

@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\bin\Debug\netcoreapp2.0\05CompareCharArrays.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\bin\Debug\netcoreapp2.0\05CompareCharArrays.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\bin\Debug\netcoreapp2.0\05CompareCharArrays.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\bin\Debug\netcoreapp2.0\05CompareCharArrays.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\bin\Debug\netcoreapp2.0\05CompareCharArrays.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.pdb

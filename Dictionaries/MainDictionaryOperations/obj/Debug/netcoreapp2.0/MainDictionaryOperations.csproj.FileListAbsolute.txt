@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\obj\Debug\netcoreapp2.0\MainDictionaryOperations.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\obj\Debug\netcoreapp2.0\MainDictionaryOperations.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\obj\Debug\netcoreapp2.0\MainDictionaryOperations.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\obj\Debug\netcoreapp2.0\MainDictionaryOperations.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\bin\Debug\netcoreapp2.0\MainDictionaryOperations.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\bin\Debug\netcoreapp2.0\MainDictionaryOperations.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\bin\Debug\netcoreapp2.0\MainDictionaryOperations.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\bin\Debug\netcoreapp2.0\MainDictionaryOperations.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\bin\Debug\netcoreapp2.0\MainDictionaryOperations.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\obj\Debug\netcoreapp2.0\MainDictionaryOperations.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MainDictionaryOperations\obj\Debug\netcoreapp2.0\MainDictionaryOperations.pdb

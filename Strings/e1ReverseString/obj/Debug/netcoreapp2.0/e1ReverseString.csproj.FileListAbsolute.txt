@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\obj\Debug\netcoreapp2.0\e1ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\obj\Debug\netcoreapp2.0\e1ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\obj\Debug\netcoreapp2.0\e1ReverseString.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\obj\Debug\netcoreapp2.0\e1ReverseString.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\bin\Debug\netcoreapp2.0\e1ReverseString.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\bin\Debug\netcoreapp2.0\e1ReverseString.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\bin\Debug\netcoreapp2.0\e1ReverseString.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\bin\Debug\netcoreapp2.0\e1ReverseString.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\bin\Debug\netcoreapp2.0\e1ReverseString.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\obj\Debug\netcoreapp2.0\e1ReverseString.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\e1ReverseString\obj\Debug\netcoreapp2.0\e1ReverseString.pdb

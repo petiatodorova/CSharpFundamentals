@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\bin\Debug\netcoreapp2.0\regLab1.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\bin\Debug\netcoreapp2.0\regLab1.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\bin\Debug\netcoreapp2.0\regLab1.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\bin\Debug\netcoreapp2.0\regLab1.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\bin\Debug\netcoreapp2.0\regLab1.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\obj\Debug\netcoreapp2.0\regLab1.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\obj\Debug\netcoreapp2.0\regLab1.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\obj\Debug\netcoreapp2.0\regLab1.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\obj\Debug\netcoreapp2.0\regLab1.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\obj\Debug\netcoreapp2.0\regLab1.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\regLab1\obj\Debug\netcoreapp2.0\regLab1.pdb

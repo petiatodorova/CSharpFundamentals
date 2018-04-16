@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\obj\Debug\netcoreapp2.0\Phonebook2.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\obj\Debug\netcoreapp2.0\Phonebook2.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\obj\Debug\netcoreapp2.0\Phonebook2.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\obj\Debug\netcoreapp2.0\Phonebook2.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\bin\Debug\netcoreapp2.0\Phonebook2.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\bin\Debug\netcoreapp2.0\Phonebook2.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\bin\Debug\netcoreapp2.0\Phonebook2.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\bin\Debug\netcoreapp2.0\Phonebook2.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\bin\Debug\netcoreapp2.0\Phonebook2.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\obj\Debug\netcoreapp2.0\Phonebook2.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\Phonebook2\obj\Debug\netcoreapp2.0\Phonebook2.pdb

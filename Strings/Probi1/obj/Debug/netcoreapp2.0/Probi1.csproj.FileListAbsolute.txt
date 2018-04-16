@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\bin\Debug\netcoreapp2.0\Probi1.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\bin\Debug\netcoreapp2.0\Probi1.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\bin\Debug\netcoreapp2.0\Probi1.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\bin\Debug\netcoreapp2.0\Probi1.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\bin\Debug\netcoreapp2.0\Probi1.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\obj\Debug\netcoreapp2.0\Probi1.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\obj\Debug\netcoreapp2.0\Probi1.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\obj\Debug\netcoreapp2.0\Probi1.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\obj\Debug\netcoreapp2.0\Probi1.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\obj\Debug\netcoreapp2.0\Probi1.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Strings\Probi1\obj\Debug\netcoreapp2.0\Probi1.pdb

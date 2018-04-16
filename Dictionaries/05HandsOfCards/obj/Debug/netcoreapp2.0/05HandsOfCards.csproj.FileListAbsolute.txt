@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\obj\Debug\netcoreapp2.0\05HandsOfCards.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\obj\Debug\netcoreapp2.0\05HandsOfCards.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\obj\Debug\netcoreapp2.0\05HandsOfCards.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\obj\Debug\netcoreapp2.0\05HandsOfCards.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\bin\Debug\netcoreapp2.0\05HandsOfCards.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\bin\Debug\netcoreapp2.0\05HandsOfCards.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\bin\Debug\netcoreapp2.0\05HandsOfCards.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\bin\Debug\netcoreapp2.0\05HandsOfCards.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\bin\Debug\netcoreapp2.0\05HandsOfCards.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\obj\Debug\netcoreapp2.0\05HandsOfCards.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\05HandsOfCards\obj\Debug\netcoreapp2.0\05HandsOfCards.pdb

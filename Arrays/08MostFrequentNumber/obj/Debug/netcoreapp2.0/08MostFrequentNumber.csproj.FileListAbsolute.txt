@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\bin\Debug\netcoreapp2.0\08MostFrequentNumber.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\bin\Debug\netcoreapp2.0\08MostFrequentNumber.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\bin\Debug\netcoreapp2.0\08MostFrequentNumber.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\bin\Debug\netcoreapp2.0\08MostFrequentNumber.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\bin\Debug\netcoreapp2.0\08MostFrequentNumber.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\obj\Debug\netcoreapp2.0\08MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\obj\Debug\netcoreapp2.0\08MostFrequentNumber.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\obj\Debug\netcoreapp2.0\08MostFrequentNumber.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\obj\Debug\netcoreapp2.0\08MostFrequentNumber.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\obj\Debug\netcoreapp2.0\08MostFrequentNumber.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\08MostFrequentNumber\obj\Debug\netcoreapp2.0\08MostFrequentNumber.pdb

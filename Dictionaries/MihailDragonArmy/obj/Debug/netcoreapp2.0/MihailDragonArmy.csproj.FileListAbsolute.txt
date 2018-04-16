@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\bin\Debug\netcoreapp2.0\MihailDragonArmy.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\bin\Debug\netcoreapp2.0\MihailDragonArmy.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\bin\Debug\netcoreapp2.0\MihailDragonArmy.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\bin\Debug\netcoreapp2.0\MihailDragonArmy.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\bin\Debug\netcoreapp2.0\MihailDragonArmy.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\obj\Debug\netcoreapp2.0\MihailDragonArmy.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\obj\Debug\netcoreapp2.0\MihailDragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\obj\Debug\netcoreapp2.0\MihailDragonArmy.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\obj\Debug\netcoreapp2.0\MihailDragonArmy.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\obj\Debug\netcoreapp2.0\MihailDragonArmy.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\MihailDragonArmy\obj\Debug\netcoreapp2.0\MihailDragonArmy.pdb

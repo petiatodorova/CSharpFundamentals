@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\bin\Debug\netcoreapp2.0\RegexDefinitions.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\bin\Debug\netcoreapp2.0\RegexDefinitions.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\bin\Debug\netcoreapp2.0\RegexDefinitions.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\bin\Debug\netcoreapp2.0\RegexDefinitions.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\bin\Debug\netcoreapp2.0\RegexDefinitions.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\obj\Debug\netcoreapp2.0\RegexDefinitions.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\obj\Debug\netcoreapp2.0\RegexDefinitions.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\obj\Debug\netcoreapp2.0\RegexDefinitions.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\obj\Debug\netcoreapp2.0\RegexDefinitions.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\obj\Debug\netcoreapp2.0\RegexDefinitions.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\RegexDefinitions\obj\Debug\netcoreapp2.0\RegexDefinitions.csprojResolveAssemblyReference.cache

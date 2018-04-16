@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\bin\Debug\netcoreapp2.0\e2ExtractSentences.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\bin\Debug\netcoreapp2.0\e2ExtractSentences.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\bin\Debug\netcoreapp2.0\e2ExtractSentences.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\bin\Debug\netcoreapp2.0\e2ExtractSentences.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\bin\Debug\netcoreapp2.0\e2ExtractSentences.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\obj\Debug\netcoreapp2.0\e2ExtractSentences.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\obj\Debug\netcoreapp2.0\e2ExtractSentences.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\obj\Debug\netcoreapp2.0\e2ExtractSentences.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\obj\Debug\netcoreapp2.0\e2ExtractSentences.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\obj\Debug\netcoreapp2.0\e2ExtractSentences.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\e2ExtractSentences\obj\Debug\netcoreapp2.0\e2ExtractSentences.pdb

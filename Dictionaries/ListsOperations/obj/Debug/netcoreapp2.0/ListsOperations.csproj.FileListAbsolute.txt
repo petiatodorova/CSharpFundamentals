@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\obj\Debug\netcoreapp2.0\ListsOperations.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\obj\Debug\netcoreapp2.0\ListsOperations.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\obj\Debug\netcoreapp2.0\ListsOperations.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\obj\Debug\netcoreapp2.0\ListsOperations.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\bin\Debug\netcoreapp2.0\ListsOperations.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\bin\Debug\netcoreapp2.0\ListsOperations.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\bin\Debug\netcoreapp2.0\ListsOperations.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\bin\Debug\netcoreapp2.0\ListsOperations.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\bin\Debug\netcoreapp2.0\ListsOperations.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\obj\Debug\netcoreapp2.0\ListsOperations.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\ListsOperations\obj\Debug\netcoreapp2.0\ListsOperations.pdb

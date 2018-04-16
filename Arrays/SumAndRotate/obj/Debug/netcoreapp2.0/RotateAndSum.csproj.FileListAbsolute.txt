@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\obj\Debug\netcoreapp2.0\RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\obj\Debug\netcoreapp2.0\RotateAndSum.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\obj\Debug\netcoreapp2.0\RotateAndSum.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\obj\Debug\netcoreapp2.0\RotateAndSum.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\bin\Debug\netcoreapp2.0\RotateAndSum.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\bin\Debug\netcoreapp2.0\RotateAndSum.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\bin\Debug\netcoreapp2.0\RotateAndSum.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\bin\Debug\netcoreapp2.0\RotateAndSum.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\bin\Debug\netcoreapp2.0\RotateAndSum.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\obj\Debug\netcoreapp2.0\RotateAndSum.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\SumAndRotate\obj\Debug\netcoreapp2.0\RotateAndSum.pdb

@@ -1,0 +1,4 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Regex\obj\Debug\netcoreapp2.0\Regex.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Regex\obj\Debug\netcoreapp2.0\Regex.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Regex\obj\Debug\netcoreapp2.0\Regex.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\Regex\obj\Debug\netcoreapp2.0\Regex.AssemblyInfo.cs

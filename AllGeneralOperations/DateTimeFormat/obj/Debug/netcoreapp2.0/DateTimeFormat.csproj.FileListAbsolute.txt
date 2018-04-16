@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\bin\Debug\netcoreapp2.0\DateTimeFormat.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\bin\Debug\netcoreapp2.0\DateTimeFormat.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\bin\Debug\netcoreapp2.0\DateTimeFormat.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\bin\Debug\netcoreapp2.0\DateTimeFormat.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\bin\Debug\netcoreapp2.0\DateTimeFormat.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\obj\Debug\netcoreapp2.0\DateTimeFormat.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\obj\Debug\netcoreapp2.0\DateTimeFormat.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\obj\Debug\netcoreapp2.0\DateTimeFormat.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\obj\Debug\netcoreapp2.0\DateTimeFormat.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\obj\Debug\netcoreapp2.0\DateTimeFormat.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\DateTimeFormat\obj\Debug\netcoreapp2.0\DateTimeFormat.csprojResolveAssemblyReference.cache

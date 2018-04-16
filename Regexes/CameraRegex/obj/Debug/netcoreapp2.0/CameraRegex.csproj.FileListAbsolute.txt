@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\bin\Debug\netcoreapp2.0\CameraRegex.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\bin\Debug\netcoreapp2.0\CameraRegex.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\bin\Debug\netcoreapp2.0\CameraRegex.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\bin\Debug\netcoreapp2.0\CameraRegex.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\bin\Debug\netcoreapp2.0\CameraRegex.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\obj\Debug\netcoreapp2.0\CameraRegex.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\obj\Debug\netcoreapp2.0\CameraRegex.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\obj\Debug\netcoreapp2.0\CameraRegex.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\obj\Debug\netcoreapp2.0\CameraRegex.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\obj\Debug\netcoreapp2.0\CameraRegex.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\CameraRegex\obj\Debug\netcoreapp2.0\CameraRegex.pdb

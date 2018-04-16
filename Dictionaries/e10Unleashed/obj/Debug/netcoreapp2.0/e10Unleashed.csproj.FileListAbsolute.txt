@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\obj\Debug\netcoreapp2.0\e10Unleashed.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\obj\Debug\netcoreapp2.0\e10Unleashed.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\obj\Debug\netcoreapp2.0\e10Unleashed.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\obj\Debug\netcoreapp2.0\e10Unleashed.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\bin\Debug\netcoreapp2.0\e10Unleashed.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\bin\Debug\netcoreapp2.0\e10Unleashed.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\bin\Debug\netcoreapp2.0\e10Unleashed.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\bin\Debug\netcoreapp2.0\e10Unleashed.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\bin\Debug\netcoreapp2.0\e10Unleashed.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\obj\Debug\netcoreapp2.0\e10Unleashed.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\e10Unleashed\obj\Debug\netcoreapp2.0\e10Unleashed.pdb

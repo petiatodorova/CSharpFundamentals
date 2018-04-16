@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\bin\Debug\netcoreapp2.0\LegendaryFarming1.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\bin\Debug\netcoreapp2.0\LegendaryFarming1.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\bin\Debug\netcoreapp2.0\LegendaryFarming1.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\bin\Debug\netcoreapp2.0\LegendaryFarming1.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\bin\Debug\netcoreapp2.0\LegendaryFarming1.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\obj\Debug\netcoreapp2.0\LegendaryFarming1.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\obj\Debug\netcoreapp2.0\LegendaryFarming1.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\obj\Debug\netcoreapp2.0\LegendaryFarming1.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\obj\Debug\netcoreapp2.0\LegendaryFarming1.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\obj\Debug\netcoreapp2.0\LegendaryFarming1.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\LegendaryFarming1\obj\Debug\netcoreapp2.0\LegendaryFarming1.pdb

@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\bin\Debug\netcoreapp2.0\08LogsAggregator.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\bin\Debug\netcoreapp2.0\08LogsAggregator.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\bin\Debug\netcoreapp2.0\08LogsAggregator.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\bin\Debug\netcoreapp2.0\08LogsAggregator.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\bin\Debug\netcoreapp2.0\08LogsAggregator.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\obj\Debug\netcoreapp2.0\08LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\obj\Debug\netcoreapp2.0\08LogsAggregator.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\obj\Debug\netcoreapp2.0\08LogsAggregator.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\obj\Debug\netcoreapp2.0\08LogsAggregator.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\obj\Debug\netcoreapp2.0\08LogsAggregator.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\08LogsAggregator\obj\Debug\netcoreapp2.0\08LogsAggregator.pdb

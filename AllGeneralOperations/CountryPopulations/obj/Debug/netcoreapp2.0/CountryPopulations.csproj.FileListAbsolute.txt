@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\CountryPopulations\bin\Debug\netcoreapp2.0\CountryPopulations.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\CountryPopulations\bin\Debug\netcoreapp2.0\CountryPopulations.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\CountryPopulations\bin\Debug\netcoreapp2.0\CountryPopulations.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\CountryPopulations\bin\Debug\netcoreapp2.0\CountryPopulations.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\CountryPopulations\bin\Debug\netcoreapp2.0\CountryPopulations.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\CountryPopulations\obj\Debug\netcoreapp2.0\CountryPopulations.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\CountryPopulations\obj\Debug\netcoreapp2.0\CountryPopulations.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\CountryPopulations\obj\Debug\netcoreapp2.0\CountryPopulations.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\CountryPopulations\obj\Debug\netcoreapp2.0\CountryPopulations.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\AllGeneralOperations\CountryPopulations\obj\Debug\netcoreapp2.0\CountryPopulations.pdb

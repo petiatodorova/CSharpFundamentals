@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\bin\Debug\netcoreapp2.0\ArrayOptions.deps.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\bin\Debug\netcoreapp2.0\ArrayOptions.runtimeconfig.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\bin\Debug\netcoreapp2.0\ArrayOptions.runtimeconfig.dev.json
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\bin\Debug\netcoreapp2.0\ArrayOptions.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\bin\Debug\netcoreapp2.0\ArrayOptions.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\obj\Debug\netcoreapp2.0\ArrayOptions.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\obj\Debug\netcoreapp2.0\ArrayOptions.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\obj\Debug\netcoreapp2.0\ArrayOptions.AssemblyInfo.cs
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\obj\Debug\netcoreapp2.0\ArrayOptions.dll
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\obj\Debug\netcoreapp2.0\ArrayOptions.pdb
+C:\Users\John\Desktop\CHERRYS\Software-Technologies\ExcercicesAndLab\Arrays\Arrays\ArrayOptions\obj\Debug\netcoreapp2.0\ArrayOptions.csprojResolveAssemblyReference.cache
