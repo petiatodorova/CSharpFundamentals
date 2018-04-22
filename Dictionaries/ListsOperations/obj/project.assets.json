@@ -670,15 +670,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\ListsOperations\\ListsOperations.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\ListsOperations\\ListsOperations.csproj",
       "projectName": "ListsOperations",
-      "projectPath": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\ListsOperations\\ListsOperations.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\ListsOperations\\ListsOperations.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\ListsOperations\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\ListsOperations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

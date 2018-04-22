@@ -670,15 +670,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\UnleashedFromColegata\\UnleashedFromColegata.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\UnleashedFromColegata\\UnleashedFromColegata.csproj",
       "projectName": "UnleashedFromColegata",
-      "projectPath": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\UnleashedFromColegata\\UnleashedFromColegata.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\UnleashedFromColegata\\UnleashedFromColegata.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\UnleashedFromColegata\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\UnleashedFromColegata\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

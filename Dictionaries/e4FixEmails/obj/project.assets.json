@@ -670,15 +670,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\e4FixEmails\\e4FixEmails.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\e4FixEmails\\e4FixEmails.csproj",
       "projectName": "e4FixEmails",
-      "projectPath": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\e4FixEmails\\e4FixEmails.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\e4FixEmails\\e4FixEmails.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\e4FixEmails\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\e4FixEmails\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

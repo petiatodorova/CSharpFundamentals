@@ -670,15 +670,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\Phonebook2\\Phonebook2.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\Phonebook2\\Phonebook2.csproj",
       "projectName": "Phonebook2",
-      "projectPath": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\Phonebook2\\Phonebook2.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\Phonebook2\\Phonebook2.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\Phonebook2\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\Phonebook2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

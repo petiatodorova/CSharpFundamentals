@@ -670,15 +670,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\CopyOfCurrentTask\\CopyOfCurrentTask.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\CopyOfCurrentTask\\CopyOfCurrentTask.csproj",
       "projectName": "CopyOfCurrentTask",
-      "projectPath": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\CopyOfCurrentTask\\CopyOfCurrentTask.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\CopyOfCurrentTask\\CopyOfCurrentTask.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\CHERRYS\\Software-Technologies\\EXCERCICESANDLAB\\Dictionaries\\CopyOfCurrentTask\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\MyGitRepo\\CSharpFundamentals\\Dictionaries\\CopyOfCurrentTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
