@@ -1,4 +1,0 @@
-C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\06UserLogs\obj\Debug\netcoreapp2.0\06UserLogs.csprojResolveAssemblyReference.cache
-C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\06UserLogs\obj\Debug\netcoreapp2.0\06UserLogs.csproj.CoreCompileInputs.cache
-C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\06UserLogs\obj\Debug\netcoreapp2.0\06UserLogs.AssemblyInfoInputs.cache
-C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Dictionaries\06UserLogs\obj\Debug\netcoreapp2.0\06UserLogs.AssemblyInfo.cs

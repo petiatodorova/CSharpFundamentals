@@ -1,4 +1,0 @@
-C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\MaxSequenceOfIncreasingElementsInArray\obj\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElementsInArray.csprojResolveAssemblyReference.cache
-C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\MaxSequenceOfIncreasingElementsInArray\obj\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElementsInArray.csproj.CoreCompileInputs.cache
-C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\MaxSequenceOfIncreasingElementsInArray\obj\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElementsInArray.AssemblyInfoInputs.cache
-C:\Users\John\Desktop\CHERRYS\Software-Technologies\EXCERCICESANDLAB\Regexes\MaxSequenceOfIncreasingElementsInArray\obj\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElementsInArray.AssemblyInfo.cs
